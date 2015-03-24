@@ -1,0 +1,55 @@
+UNSORTED LIST
+GPA  #1.00 : 3.25
+GPA  #2.00 : 2.78
+GPA  #3.00 : 3.90
+GPA  #4.00 : 3.97
+GPA  #5.00 : 3.00
+GPA  #6.00 : 3.50
+GPA  #7.00 : 4.00
+GPA  #8.00 : 2.99
+GPA  #9.00 : 4.00
+GPA  #10.00 : 4.00
+GPA  #11.00 : 3.33
+GPA  #12.00 : 3.76
+GPA  #13.00 : 3.67
+GPA  #14.00 : 3.75
+GPA  #15.00 : 3.85
+GPA  #16.00 : 3.01
+GPA  #17.00 : 3.10
+GPA  #18.00 : 4.00
+GPA  #19.00 : 4.00
+GPA  #20.00 : 2.50
+GPA  #21.00 : 4.00
+GPA  #22.00 : 4.00
+GPA  #23.00 : 3.89
+GPA  #24.00 : 4.00
+GPA  #25.00 : 3.65
+SORTED GPA LIST
+SORTED GPA LIST
+GPA #1.00: 2.50
+GPA #2.00: 2.78
+GPA #3.00: 2.99
+GPA #4.00: 3.00
+GPA #5.00: 3.01
+GPA #6.00: 3.10
+GPA #7.00: 3.25
+GPA #8.00: 3.33
+GPA #9.00: 3.50
+GPA #10.00: 3.65
+GPA #11.00: 3.67
+GPA #12.00: 3.75
+GPA #13.00: 3.76
+GPA #14.00: 3.85
+GPA #15.00: 3.89
+GPA #16.00: 3.90
+GPA #17.00: 3.97
+GPA #18.00: 4.00
+GPA #19.00: 4.00
+GPA #20.00: 4.00
+GPA #21.00: 4.00
+GPA #22.00: 4.00
+GPA #23.00: 4.00
+GPA #24.00: 4.00
+GPA #25.00: 4.00
+The GPA 4.00 searched for ,  occurs in the list/array 8.00 times. 
+Assignment #09 - Created and Executed by Jose Tobar
